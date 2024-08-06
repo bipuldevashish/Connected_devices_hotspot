@@ -10,7 +10,9 @@ This Android application, built using Jetpack Compose, demonstrates searching fo
 
 ## Demo
 
-![Device Finder Demo](https://github.com/bipuldevashish/Connected_devices_hotspot/blob/master/Screenrecorder-2024-08-06-18-45-07-282.mp4)
+<img src="https://github.com/bipuldevashish/Connected_devices_hotspot/blob/master/Screenshot_2024-08-06-19-00-47-760_com.example.jetpackcomposedemo.jpg" alt="Device Finder Screenshot" width="300"/>
+
+![Downlaod and view Device Finder Demo](https://github.com/bipuldevashish/Connected_devices_hotspot/blob/master/Screenrecorder-2024-08-06-18-45-07-282.mp4)
 
 ## Getting Started
 
